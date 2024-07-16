@@ -72,7 +72,7 @@ nav ul li a {
 }
   
 .navbar ul li a:hover {
-    background-color: #ddd;
+    background-color: darkcyan;
     color: black;
 }
 
@@ -134,4 +134,3 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
-
